@@ -25,12 +25,12 @@ title: Data processing
 
 # Authors of the document, will not be parsed [manual entry]
 # Uncomment and populate the next lines accordingly
-#author_1: Name Surname
+author_1: João Guimarães
 #author_2:
 
 # Maintainers of the document, will not be parsed [manual entry]
 # Uncomment and populate the next lines accordingly
-#maintainer_1: Name Surname
+maintainer_1: João Guimarães
 #maintainer_2:
 
 # To whom reach out regarding the document, will not be parsed [manual entry]
@@ -45,7 +45,14 @@ title: Data processing
 
 ---
 
-Coming soon!
 
-- Introduction
+## Ideas
+- Consider storage capacity accounts for Extra data generated -> refer to DMP
+- Keep track in document of steps taken in the processing of collected data
+- emphasize that processing steps should be reproducible -> refer to software chapters such as FAIR Software and CODECHECK best practices: e.g. ideally use generalizable code instead of (Excel) spreadsheets; virtual environments, etc., and courses and other materials
+- reference to how folder structure and file naming accommodates processed data
+- Add Anonymization, Pseudonymization, De-identification, link to Planning
 - Data versioning
+
+## Further Reading
+*Links to internal (How-to guides, decision guides) or external resources*
