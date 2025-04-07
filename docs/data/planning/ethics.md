@@ -45,4 +45,8 @@ title: Ethics
 
 ---
 
+[Personal Data](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/manage/confidential-data/personal-data)
+
+[Confidential Data](https://tu-delft-library.github.io/rdm101-book/modules/module2.html#confidential-data)
+
 🚧 Coming soon! ⏳

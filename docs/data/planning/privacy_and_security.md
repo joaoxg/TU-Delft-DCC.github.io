@@ -45,4 +45,6 @@ title: Privacy and security
 
 ---
 
+[Security and Privacy](https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Privacy.aspx)
+
 🚧 Coming soon! ⏳
