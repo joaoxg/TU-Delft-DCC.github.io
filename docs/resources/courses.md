@@ -5,8 +5,9 @@
 # Uncomment and populate the next line accordingly
 date: 2025-03-18
 
-# We use this key to indicate the last modified date [automatic entry]
-date-modified: last-modified
+# We use this key to indicate the last modified date [manual entry, use YYYY-MM-DD]
+# Uncomment and populate the next line accordingly
+date-modified: 2025-07-11
 
 # Do not modify
 lang: en
@@ -89,7 +90,7 @@ The [Delft Institute for Computational Science and Engineering](https://www.tude
 :::
 
 ::: {.card}
-### REIT
+![](/docs/img/REIT_logo_v2.svg){.card-image}
 
 The [Research Engineering and Infrastructure Team](https://reit.tudelft.nl/) offers support on software engineering, data science, and high-performance computing.  They offer courses on Rust for Research, Python best practices, and Working with a cluster.
 
